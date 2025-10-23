@@ -1,0 +1,4 @@
+name: pb on use caase of yum module
+host: all
+tasks: 
+  -name

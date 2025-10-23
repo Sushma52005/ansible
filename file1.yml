@@ -1,0 +1,7 @@
+name: playback on execution
+host: all
+tasks:
+  name: git install code
+  yum:
+    name: git
+    state: present
